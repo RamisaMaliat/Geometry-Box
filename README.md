@@ -1,3 +1,4 @@
+[Final_Presentation - Geometry Box.pptx](https://github.com/RamisaMaliat/Geometry-Box/files/7316345/Final_Presentation.-.Geometry.Box.pptx)
 # Geometry-Box
 It is a desktop application for mathematics with 3 main parts :-
 - The Canvas : The user has the independence to do whatever he or she wants, like drawing or writing anything using a pen and a white sheet.
